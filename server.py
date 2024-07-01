@@ -13,6 +13,7 @@ def hello_world():
     load_contents()
     return rss_contents
 
-# if __name__ == "__main__":
-#
-#     # app.run(host="0.0.0.0", port=8000, debug=True)
+@app.route("/rss")
+def rss():
+    load_contents()
+    return rss_contents
