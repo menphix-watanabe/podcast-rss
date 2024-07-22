@@ -1,27 +1,28 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel>
-<title>顺得余生</title>
-<link>https://www.apple.com/itunes/podcasts/</link>
-<itunes:owner><itunes:email>shundeyusheng@126.com</itunes:email></itunes:owner>
-<language>zh-cn</language>
-<copyright>&#xA9; 2024 Wavelength Production</copyright>
-<itunes:author>小何&amp;胡百</itunes:author>
-<description> 一档可以随时陪伴你的节目。 </description>
-<itunes:type>serial</itunes:type>
-<itunes:image href="https://menphix.pythonanywhere.com/static/logo2.png"/>
-<itunes:category text="Society &amp; Culture"/>
-<itunes:explicit>false</itunes:explicit>
-<item>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:title>Vol.1 聊聊去哪里退休（一）</itunes:title>
-<description>
-<![CDATA[ 这一期我们聊聊去哪里退休 <a href=" ">Apple Podcasts</a >. ]]>
-</description>
-<enclosure length="58963469" type="audio/mpeg" url="https://menphix.pythonanywhere.com/static/episodes/ep1.mp3"/>
-<guid>0BC27DFF-60D3-4F2E-BA95-4D9F9D476D9A</guid>
-<pubDate>Sun, 30 Jun 2024 01:00:00 GMT</pubDate>
-<itunes:duration>3436</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-</channel>
+  <channel>
+    <title>顺得余生</title>
+    <description> 一档可以随时陪伴你的节目。 </description>
+    <itunes:image href="https://menphix.pythonanywhere.com/static/logo2.png"/>
+    <language>zh-cn</language>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner><itunes:email>shundeyusheng@126.com</itunes:email></itunes:owner>
+    <copyright>&#xA9; 2024 Wavelength Production</copyright>
+    <itunes:author>小何&amp;胡百</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>Vol.1 聊聊去哪里退休（一）</title>
+      <enclosure length="58963469" type="audio/mpeg" url="https://menphix.pythonanywhere.com/static/episodes/ep1.mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>0BC27DFF-60D3-4F2E-BA95-4D9F9D476D9A</guid>
+      <pubDate>Sun, 30 Jun 2024 01:00:00 GMT</pubDate>
+      <description>
+      <![CDATA[ 这一期我们聊聊去哪里退休 <a href=" ">Apple Podcasts</a >. ]]>
+      </description>
+      <itunes:title>聊聊去哪里退休（一）</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>3436</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
 </rss>
