@@ -24,5 +24,19 @@
       <itunes:duration>3436</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Vol.2 关于播客的播客</title>
+      <enclosure length="18899969" type="audio/mpeg" url="https://menphix.pythonanywhere.com/static/episodes/ep2.mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>213801aa-c01a-4664-8d24-5532feed6170</guid>
+      <pubDate>Tue, 20 Aug 2024 01:00:00 GMT</pubDate>
+      <description>
+      这一期我们聊了关于这个播客的构想，是一个关于播客的播客（meta-podcast）。亮点包括但不限于小何给胡百安利了虚拟偶像，我们对求真的思考。Enjoy!
+      </description>
+      <itunes:title>关于播客的播客</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>3593</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
