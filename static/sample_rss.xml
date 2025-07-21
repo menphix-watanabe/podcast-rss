@@ -38,5 +38,19 @@
       <itunes:duration>3593</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Vol.3 沉迷与心流</title>
+      <enclosure length="8972928" type="audio/mpeg" url="https://menphix.pythonanywhere.com/static/episodes/ep3.mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid>134298f7-bc48-4415-9afb-56ab0cbf9cb9</guid>
+      <pubDate>Sun, 20 Jul 2025 01:00:00 GMT</pubDate>
+      <description>
+      这一期从小何玩Hades和小丑牌的经历说起，讲了一些对生活/自由/快乐的禅意反思。Enjoy!
+      </description>
+      <itunes:title>沉迷与心流</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>1717</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
