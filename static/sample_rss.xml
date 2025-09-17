@@ -2,7 +2,7 @@
   <channel>
     <title>顺得余生</title>
     <description> 一档可以随时陪伴你的节目。 </description>
-    <itunes:image href="https://menphix.pythonanywhere.com/static/logo2.jpg"/>
+    <itunes:image href="http://menphix.pythonanywhere.com/static/logo3.jpg"/>
     <language>zh-cn</language>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
